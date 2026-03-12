@@ -149,14 +149,11 @@ Explore BirdVoyage today and discover **cheap flights, affordable business class
 
 ### 🌍 Start Here
 
-Homepage  
-https://birdvoyage.co.uk/
+[Homepage](https://birdvoyage.co.uk/)
 
-Browse Flights  
-https://birdvoyage.co.uk/flights
+[Browse Flights](https://birdvoyage.co.uk/flights)
 
-Business Class Deals  
-https://birdvoyage.co.uk/business-class-flights-from-uk
+[Business Class Deals](https://birdvoyage.co.uk/business-class-flights-from-uk)
 
 ---
 
